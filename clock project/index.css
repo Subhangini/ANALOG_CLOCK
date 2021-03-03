@@ -6,9 +6,8 @@ body {
 #clockcontainer{
     position: relative;
     margin: auto;
-    height: 50vw;
-    width: 50vw;
-    
+    height: 40vw;
+    width: 40vw;
     background:url(clock.jpg) no-repeat;
     background-size: 100%;
 }
